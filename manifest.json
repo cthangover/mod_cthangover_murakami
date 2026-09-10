@@ -1,0 +1,8 @@
+{
+  "id": "murakami",
+  "name": "Murakami",
+  "version": "1.0.0",
+  "author": "dyn",
+  "description": "Murakami line",
+  "depends": [ "core>=1", "interface>=1" ]
+}

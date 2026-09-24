@@ -4,5 +4,6 @@
   "version": "1.0.0",
   "author": "dyn",
   "description": "Murakami line",
+  "category": "story, characters",
   "depends": [ "core>=1", "interface>=1" ]
 }

@@ -2,8 +2,8 @@
   "id": "murakami",
   "name": "Murakami",
   "version": "1.0.0",
-  "author": "dyn",
+  "author": "ct",
   "description": "Murakami line",
   "category": "story, characters",
-  "depends": [ "core>=1", "interface>=1" ]
+  "depends": [ "visual_novel_core>=1", "interface>=1" ]
 }

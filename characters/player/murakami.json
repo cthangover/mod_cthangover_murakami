@@ -1,13 +1,19 @@
 {
-  "Id": "Murakami",
-  "Name": "characters/player/murakami",
-  "Image": "characters/player/murakami",
-  
-  "Level": 1,
-  "Point": 2,
-  "Health": 10,
-  "Defence": 0,
-  "Attack": 2,
-  
-  "Actions": ["physics/attack", "physics/stun"]
+  "Kind": "character",
+  "Items": [
+    {
+      "Id": "Murakami",
+      "Name": "characters/player/murakami",
+      "Image": "characters/player/murakami",
+      "Level": 1,
+      "Point": 2,
+      "Health": 10,
+      "Defence": 0,
+      "Attack": 2,
+      "Actions": [
+        "physics/attack",
+        "physics/stun"
+      ]
+    }
+  ]
 }

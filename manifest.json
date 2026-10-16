@@ -3,7 +3,7 @@
   "name": "Murakami",
   "version": "1.0.0",
   "author": "ct",
-  "description": "Murakami line",
+  "description": "Story line about Murakami: a wild wolf prowling the town, the meeting scenario chain (start, wolf battle, werewolf boss, escort home), the Murakami character with her avatar set and the meeting quest.",
   "category": "story, characters",
   "depends": [ "visual_novel_core>=1", "interface>=1" ]
 }

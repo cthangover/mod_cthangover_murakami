@@ -43,7 +43,7 @@ action character.send_notification type=Murakami
 
 text "- Они в той комнате..." key=meeting_murakami/after_wolf/they_inside second=murakami/fear_1
 
-select "" key=meeting_murakami/after_wolf/choose_enter
+select ""
 option "Зайти в комнату" key=meeting_murakami/after_wolf/opt_enter_room -> :enter_room
 
 :enter_room

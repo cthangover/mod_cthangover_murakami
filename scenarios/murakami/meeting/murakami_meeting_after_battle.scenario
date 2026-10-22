@@ -38,7 +38,7 @@ light_set
 text "- М-да..." key=meeting_murakami/after_wolf/hmm first=marao/think
 text "- Атмосфера тут, конечно, хреновая... — [он принюхался] — <s>жоп...</s>, кхм, нутром чую, чё-то не то..." key=meeting_murakami/after_wolf/atmosphere first=marao/think
 
-action character.add_to_party type=Murakami
+action party.add id=Murakami
 action character.send_notification type=Murakami
 
 text "- Они в той комнате..." key=meeting_murakami/after_wolf/they_inside second=murakami/fear_1

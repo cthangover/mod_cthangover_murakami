@@ -12,6 +12,6 @@ text "- Уютно... — [тихо, почти себе под нос.]" key=me
 text "[Марао покосился на тощую сумку с припасами, которая висела на стене. Похоже, рвать жопу ради еды теперь придётся ещё больше.]" key=meeting_murakami/end/supplies
 text "- Ну что, — [буркнул он, пряча взгляд.] — Это теперь и твоя хата." key=meeting_murakami/end/your_home first=marao/think
 
-action quest.set_status quest_id=MeetingMurakamiQuest status=End level=3
+action quest.set_status quest_id=MeetingMurakamiQuest status=End
 
 end

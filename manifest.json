@@ -5,5 +5,5 @@
   "author": "ct",
   "description": "A Cthangover story line: follow the beast prowling the town to a meeting with Murakami — scenarios, her character and expressions, a journal quest and battles.",
   "category": "story, characters",
-  "depends": [ "cthangover_game>=0.1.0", "ui_base>=1", "characters_base>=1", "quests_base>=1", "turn_battle_base>=1" ]
+  "depends": [ "cthangover_game>=0.1.0", "ui_base>=0.1.0", "characters_base>=0.1.0", "quests_base>=0.1.0", "turn_battle_base>=0.1.0" ]
 }

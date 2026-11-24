@@ -31,7 +31,7 @@ background "town/meetingmurakami/00078-2783395178"
 light_set [{"x":0.8433963,"y":0.037922725,"radius":600,"influence":1,"color":"#ffff00"},{"x":0.29016176,"y":0.16111115,"radius":600,"influence":1,"color":"#ffff00"}]
 text "- ААА?!" key=meeting_murakami/after_wolf/scream second=murakami/fear_1
 text "- Почему вы го..." key=meeting_murakami/after_wolf/why second=murakami/fear_1
-text "- Милая леди, это долгая история. Потерпите, мне нужно здесь кое-что проверить." key=meeting_murakami/after_wolf/explain first=marao/what
+text "- Милая леди, это долгая история. Потерпите, мне нужно здесь кое-что проверить." key=meeting_murakami/after_wolf/explain first=marao/think
 
 background "town/meetingmurakami/00136-3647329618"
 light_set
@@ -50,7 +50,7 @@ option "Зайти в комнату" key=meeting_murakami/after_wolf/opt_enter_
 background "town/meetingmurakami/00031-3535505844"
 text "[Марао замер, застигнутый врасплох кровавым блеском вервольфьих глаз.]" key=meeting_murakami/after_wolf/werewolf_gaze
 text "[Сама неизбежность нависла над ним в этот миг.]" key=meeting_murakami/after_wolf/inevitable
-text "- Твою ж мать... — только и выдохнул он." key=meeting_murakami/after_wolf/oh_shit first=marao/what
+text "- Твою ж мать... — только и выдохнул он." key=meeting_murakami/after_wolf/oh_shit first=marao/sad
 
 action battle.init scene=town_entry enemies=wolf_2,werewolf_girl_1 quest_id=MeetingMurakamiQuest new_tag=boss_battle
 
